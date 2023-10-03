@@ -1,0 +1,23 @@
+{
+  "name": "node-oncall-yaml-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "yamlParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node, nodejs"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Shchegolkov Matvey",
+  "license": "ISC",
+  "dependencies": {
+    "node-libcurl": "^3.0.0",
+    "yaml": "^2.3.2"
+  }
+}
